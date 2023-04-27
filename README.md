@@ -1,2 +1,8 @@
 # new
-python.py
+python -y
+
+ls
+
+python -y
+
+
